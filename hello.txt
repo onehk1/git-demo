@@ -9,5 +9,8 @@ hello atguigu hello git!
 hello atguigu hello git!
 hello atguigu hello git!
 hello atguigu hello git!
+<<<<<<< HEAD
 hello atguigu hello git! M
-hello atguigu hello git! two
+=======
+hello atguigu hello git! H
+>>>>>>> hot-fix
